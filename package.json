@@ -1,5 +1,5 @@
 {
-  "name": "base64url",
+  "name": "base64url-es5",
   "version": "3.0.0",
   "description": "For encoding to/from base64urls",
   "main": "index.js",
@@ -15,17 +15,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/brianloveswords/base64url.git"
+    "url": "git://git@github.com:colin-token/base64url.git"
   },
   "keywords": [
     "base64",
     "base64url"
   ],
-  "author": "Brian J Brennan",
+  "author": "Colin Man",
   "license": "MIT",
   "readmeFilename": "README.md",
   "devDependencies": {
     "@types/node": "^10.0.0",
     "tap": "6.1.1"
-  }
+  },
+  "dependencies": {}
 }
